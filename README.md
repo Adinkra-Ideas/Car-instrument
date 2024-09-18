@@ -99,6 +99,10 @@ Below is a List showing the Equipments used for this Project:
   </tr>
 </table>
 
+<br />
+<br />
+
+
 ## :purple_heart:  Credits
 - [Arduino CAN Shield Tutorial](https://wiki.seeedstudio.com/CAN-BUS_Shield_V2.0/)
 - [2 Channel CAN BUS FD Shield for Raspberry Pi](https://wiki.seeedstudio.com/2-Channel-CAN-BUS-FD-Shield-for-Raspberry-Pi/)
